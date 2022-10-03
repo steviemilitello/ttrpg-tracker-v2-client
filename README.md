@@ -1,2 +1,1 @@
-# ttrpg-tracker-v2-client
-an app to keep track of your tabletop rpg book collection (version 2) (client)
+Version 2 of TTRPG Tracker, making it a fully fledged app with an API and Client
